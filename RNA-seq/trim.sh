@@ -1,0 +1,3 @@
+/media/gsadmin/vd1/heguangliang/bcbio3/thirdTools/bin/fastp -w 10 -l 40 -3 -i /media/gsadmin/vd3/xudongliang/project/20190906/raw_data/fastq/45_R1.fastq.gz -o /media/gsadmin/vd3/xudongliang/project/20190906/data_analysis/trim/trim_galore/45/45_R1_val_1.fq.gz  --html /media/gsadmin/vd3/xudongliang/project/20190906/data_analysis/trim/trim_galore/45/45.html --json /media/gsadmin/vd3/xudongliang/project/20190906/data_analysis/trim/trim_galore/45/45.json &> /media/gsadmin/vd3/xudongliang/project/20190906/data_analysis/trim/trim_galore/45/45.log
+
+touch /media/gsadmin/vd3/xudongliang/project/20190906/data_analysis/trim/trim_galore/45/45.finish
